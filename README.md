@@ -40,8 +40,8 @@ excel-to-mongodb/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd excel-to-mongodb
+git clone https://github.com/Ali-tnt/ExelToMongo
+cd ExelToMongo
 ```
 
 2. Create a virtual environment:
